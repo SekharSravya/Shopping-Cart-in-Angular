@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": "21",
+      "name": "Mac Book Air"
+    },
+    {
+      "id": "22",
+      "name": "Mac Book Pro"
+    },
+    {
+      "id": "97",
+      "name": "Redmi Note 3"
+    },
+    {
+      "id": "98",
+      "name": "One Plus X"
+    }
+  ]
+}
